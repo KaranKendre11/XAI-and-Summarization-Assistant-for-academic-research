@@ -1,0 +1,50 @@
+# Core ML Libraries
+transformers==4.35.0
+datasets==2.14.5
+evaluate==0.4.0
+accelerate==0.24.0
+
+# SciBERT and NLP
+sentencepiece==0.1.99
+nltk==3.8.1
+spacy==3.6.1
+scikit-learn==1.3.1
+
+# Summarization Metrics
+rouge-score==0.1.2
+bert-score==0.3.13
+py-rouge==1.1
+
+# Data Processing
+pandas==2.1.2
+numpy==1.24.3
+arxiv==2.0.0
+pdfplumber==0.10.3
+pypdf==3.17.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Visualization and Logging
+matplotlib==3.8.0
+seaborn==0.13.0
+plotly==5.17.0
+wandb==0.15.12
+tensorboard==2.14.0
+
+# Web Interface
+streamlit==1.28.1
+gradio==3.50.0
+
+# Development Tools
+jupyter==1.0.0
+notebook==7.0.6
+ipywidgets==8.1.1
+black==23.10.0
+flake8==6.1.0
+pytest==7.4.3
+tqdm==4.66.1
+
+# Explainability
+shap==0.43.0
+lime==0.2.0.1
+captum==0.6.0
